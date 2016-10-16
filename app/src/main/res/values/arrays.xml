@@ -2,7 +2,7 @@
 <resources>
     <string-array name="suara">
         <item>Sopran</item>
-
+        <item>Alto</item>
         <item>Tenor</item>
         <item>Bass</item>
     </string-array>
