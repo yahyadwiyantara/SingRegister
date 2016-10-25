@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
     }
 
     private void doProcess() {
@@ -64,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
             nama.setText("Nama Anda: " + penyanyi);
             jenissuara.setText("Jenis Suara Anda : " + spinner.getSelectedItem().toString());
         }
-        
+
     }
 
     private boolean isValid() {
